@@ -1,7 +1,7 @@
 # Hamlet
 ## Dramski trikotnik
 * ### Zaplet (vprašaj še enkrat): 
-Hamlet se odloči poiskati morilca in maščevati očetovo smrt. Hamletu se prikaže duh mrtvega očeta in mu pove, da je bil umorjen. N dvor prideta Hamletova sošolca
+Hamlet se odloči poiskati očetovega morilca in maščevati očetovo smrt. Prikaže se mu duh mrtvega očeta in mu pove, da ga je umoril njegov brat Klavdij in ne kača, kot je bilo rečeno. Na dvor prideta Hamletova sošolca in poskušata iz njega izvleči, kaj ga muči, vendar Hamlet to spozna in ju zavede.
 
 * ### Vrh:
 Mišnica, dialog med Materjo in Hamletom, smrt Polonija, Klavdijeva molitev
@@ -30,6 +30,6 @@ Duh se prikaže Hamletu, Hamlet se dela da se mu je zmešalo, Ofelija zemdena
 * ### Vrh
 Igra Mišnica, dialog z materjo, uboj Polonija, Klavdijeva molitev
 * ### Katastrofa
-pirjateljski boj med Laertom in Hamletom, smrt kraljeve družine in zavladanje Fortinbrasa.
+Prijateljski boj med Laertom in Hamletom, smrt kraljeve družine in Laerta in zavladanje Fortinbrasa.
 
 
